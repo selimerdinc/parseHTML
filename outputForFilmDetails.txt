@@ -1,0 +1,1250 @@
+
+Film Adı : The Shawshank Redemption
+Film IMDB Rating : 9.2
+Film Yayınlanma Tarihi : (1994)
+----------------------------------------
+
+Film Adı : The Godfather
+Film IMDB Rating : 9.1
+Film Yayınlanma Tarihi : (1972)
+----------------------------------------
+
+Film Adı : The Godfather: Part II
+Film IMDB Rating : 9.0
+Film Yayınlanma Tarihi : (1974)
+----------------------------------------
+
+Film Adı : The Dark Knight
+Film IMDB Rating : 9.0
+Film Yayınlanma Tarihi : (2008)
+----------------------------------------
+
+Film Adı : 12 Angry Men
+Film IMDB Rating : 8.9
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : Schindler's List
+Film IMDB Rating : 8.9
+Film Yayınlanma Tarihi : (1993)
+----------------------------------------
+
+Film Adı : The Lord of the Rings: The Return of the King
+Film IMDB Rating : 8.9
+Film Yayınlanma Tarihi : (2003)
+----------------------------------------
+
+Film Adı : Pulp Fiction
+Film IMDB Rating : 8.8
+Film Yayınlanma Tarihi : (1994)
+----------------------------------------
+
+Film Adı : Il buono, il brutto, il cattivo
+Film IMDB Rating : 8.8
+Film Yayınlanma Tarihi : (1966)
+----------------------------------------
+
+Film Adı : The Lord of the Rings: The Fellowship of the Ring
+Film IMDB Rating : 8.8
+Film Yayınlanma Tarihi : (2001)
+----------------------------------------
+
+Film Adı : Fight Club
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (1999)
+----------------------------------------
+
+Film Adı : Forrest Gump
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (1994)
+----------------------------------------
+
+Film Adı : Inception
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (2010)
+----------------------------------------
+
+Film Adı : The Lord of the Rings: The Two Towers
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (2002)
+----------------------------------------
+
+Film Adı : Star Wars: Episode V - The Empire Strikes Back
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (1980)
+----------------------------------------
+
+Film Adı : The Matrix
+Film IMDB Rating : 8.7
+Film Yayınlanma Tarihi : (1999)
+----------------------------------------
+
+Film Adı : Goodfellas
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1990)
+----------------------------------------
+
+Film Adı : One Flew Over the Cuckoo's Nest
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1975)
+----------------------------------------
+
+Film Adı : Shichinin no samurai
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1954)
+----------------------------------------
+
+Film Adı : Se7en
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : The Silence of the Lambs
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1991)
+----------------------------------------
+
+Film Adı : Cidade de Deus
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (2002)
+----------------------------------------
+
+Film Adı : It's a Wonderful Life
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1946)
+----------------------------------------
+
+Film Adı : La vita è bella
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1997)
+----------------------------------------
+
+Film Adı : Spider-Man: No Way Home
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (2021)
+----------------------------------------
+
+Film Adı : Saving Private Ryan
+Film IMDB Rating : 8.6
+Film Yayınlanma Tarihi : (1998)
+----------------------------------------
+
+Film Adı : Star Wars
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1977)
+----------------------------------------
+
+Film Adı : Interstellar
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2014)
+----------------------------------------
+
+Film Adı : Sen to Chihiro no kamikakushi
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2001)
+----------------------------------------
+
+Film Adı : The Green Mile
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1999)
+----------------------------------------
+
+Film Adı : Gisaengchung
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Léon
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1994)
+----------------------------------------
+
+Film Adı : Seppuku
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1962)
+----------------------------------------
+
+Film Adı : The Pianist
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2002)
+----------------------------------------
+
+Film Adı : Terminator 2: Judgment Day
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1991)
+----------------------------------------
+
+Film Adı : Back to the Future
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1985)
+----------------------------------------
+
+Film Adı : The Usual Suspects
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : Psycho
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1960)
+----------------------------------------
+
+Film Adı : The Lion King
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1994)
+----------------------------------------
+
+Film Adı : Modern Times
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1936)
+----------------------------------------
+
+Film Adı : Hotaru no haka
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1988)
+----------------------------------------
+
+Film Adı : American History X
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1998)
+----------------------------------------
+
+Film Adı : Whiplash
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2014)
+----------------------------------------
+
+Film Adı : Gladiator
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : City Lights
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (1931)
+----------------------------------------
+
+Film Adı : The Departed
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2006)
+----------------------------------------
+
+Film Adı : The Intouchables
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2011)
+----------------------------------------
+
+Film Adı : The Prestige
+Film IMDB Rating : 8.5
+Film Yayınlanma Tarihi : (2006)
+----------------------------------------
+
+Film Adı : Casablanca
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1942)
+----------------------------------------
+
+Film Adı : Once Upon a Time in the West
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1968)
+----------------------------------------
+
+Film Adı : Rear Window
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1954)
+----------------------------------------
+
+Film Adı : Nuovo Cinema Paradiso
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1988)
+----------------------------------------
+
+Film Adı : Alien
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1979)
+----------------------------------------
+
+Film Adı : Apocalypse Now
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1979)
+----------------------------------------
+
+Film Adı : Memento
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : Raiders of the Lost Ark
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1981)
+----------------------------------------
+
+Film Adı : The Great Dictator
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1940)
+----------------------------------------
+
+Film Adı : Django Unchained
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2012)
+----------------------------------------
+
+Film Adı : The Lives of Others
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2006)
+----------------------------------------
+
+Film Adı : Paths of Glory
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : Sunset Blvd.
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1950)
+----------------------------------------
+
+Film Adı : WALL·E
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2008)
+----------------------------------------
+
+Film Adı : Avengers: Infinity War
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2018)
+----------------------------------------
+
+Film Adı : Witness for the Prosecution
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : Spider-Man: Into the Spider-Verse
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (2018)
+----------------------------------------
+
+Film Adı : The Shining
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1980)
+----------------------------------------
+
+Film Adı : Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Film IMDB Rating : 8.4
+Film Yayınlanma Tarihi : (1964)
+----------------------------------------
+
+Film Adı : Mononoke-hime
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1997)
+----------------------------------------
+
+Film Adı : Oldeuboi
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2003)
+----------------------------------------
+
+Film Adı : Joker
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Kimi no na wa.
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2016)
+----------------------------------------
+
+Film Adı : Coco
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2017)
+----------------------------------------
+
+Film Adı : The Dark Knight Rises
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2012)
+----------------------------------------
+
+Film Adı : Aliens
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1986)
+----------------------------------------
+
+Film Adı : Once Upon a Time in America
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1984)
+----------------------------------------
+
+Film Adı : Avengers: Endgame
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Capharnaüm
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2018)
+----------------------------------------
+
+Film Adı : Das Boot
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1981)
+----------------------------------------
+
+Film Adı : Tengoku to jigoku
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1963)
+----------------------------------------
+
+Film Adı : 3 Idiots
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Toy Story
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : Amadeus
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1984)
+----------------------------------------
+
+Film Adı : American Beauty
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1999)
+----------------------------------------
+
+Film Adı : Braveheart
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : Inglourious Basterds
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Good Will Hunting
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1997)
+----------------------------------------
+
+Film Adı : Hamilton
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2020)
+----------------------------------------
+
+Film Adı : Star Wars: Episode VI - Return of the Jedi
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1983)
+----------------------------------------
+
+Film Adı : Idi i smotri
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1985)
+----------------------------------------
+
+Film Adı : 2001: A Space Odyssey
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1968)
+----------------------------------------
+
+Film Adı : Reservoir Dogs
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1992)
+----------------------------------------
+
+Film Adı : Taare Zameen Par
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2007)
+----------------------------------------
+
+Film Adı : Vertigo
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1958)
+----------------------------------------
+
+Film Adı : M - Eine Stadt sucht einen Mörder
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1931)
+----------------------------------------
+
+Film Adı : Jagten
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2012)
+----------------------------------------
+
+Film Adı : Citizen Kane
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1941)
+----------------------------------------
+
+Film Adı : Requiem for a Dream
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : Singin' in the Rain
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1952)
+----------------------------------------
+
+Film Adı : North by Northwest
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1959)
+----------------------------------------
+
+Film Adı : Eternal Sunshine of the Spotless Mind
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : Ikiru
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1952)
+----------------------------------------
+
+Film Adı : Ladri di biciclette
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1948)
+----------------------------------------
+
+Film Adı : Lawrence of Arabia
+Film IMDB Rating : 8.3
+Film Yayınlanma Tarihi : (1962)
+----------------------------------------
+
+Film Adı : The Kid
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1921)
+----------------------------------------
+
+Film Adı : Full Metal Jacket
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1987)
+----------------------------------------
+
+Film Adı : Incendies
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2010)
+----------------------------------------
+
+Film Adı : The Apartment
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1960)
+----------------------------------------
+
+Film Adı : Dangal
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2016)
+----------------------------------------
+
+Film Adı : Double Indemnity
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1944)
+----------------------------------------
+
+Film Adı : Metropolis
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1927)
+----------------------------------------
+
+Film Adı : Jodaeiye Nader az Simin
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2011)
+----------------------------------------
+
+Film Adı : The Father
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2020)
+----------------------------------------
+
+Film Adı : Taxi Driver
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1976)
+----------------------------------------
+
+Film Adı : A Clockwork Orange
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1971)
+----------------------------------------
+
+Film Adı : The Sting
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1973)
+----------------------------------------
+
+Film Adı : Scarface
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1983)
+----------------------------------------
+
+Film Adı : Snatch
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : 1917
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Le fabuleux destin d'Amélie Poulain
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2001)
+----------------------------------------
+
+Film Adı : To Kill a Mockingbird
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1962)
+----------------------------------------
+
+Film Adı : Toy Story 3
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2010)
+----------------------------------------
+
+Film Adı : Per qualche dollaro in più
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1965)
+----------------------------------------
+
+Film Adı : Up
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Pather Panchali
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1955)
+----------------------------------------
+
+Film Adı : Indiana Jones and the Last Crusade
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1989)
+----------------------------------------
+
+Film Adı : Heat
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : L.A. Confidential
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1997)
+----------------------------------------
+
+Film Adı : Ran
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1985)
+----------------------------------------
+
+Film Adı : Yôjinbô
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1961)
+----------------------------------------
+
+Film Adı : Die Hard
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1988)
+----------------------------------------
+
+Film Adı : Green Book
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2018)
+----------------------------------------
+
+Film Adı : Rashômon
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1950)
+----------------------------------------
+
+Film Adı : Der Untergang
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : All About Eve
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1950)
+----------------------------------------
+
+Film Adı : Monty Python and the Holy Grail
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1975)
+----------------------------------------
+
+Film Adı : Some Like It Hot
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1959)
+----------------------------------------
+
+Film Adı : Batman Begins
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2005)
+----------------------------------------
+
+Film Adı : Unforgiven
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1992)
+----------------------------------------
+
+Film Adı : Bacheha-Ye aseman
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1997)
+----------------------------------------
+
+Film Adı : Jai Bhim
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2021)
+----------------------------------------
+
+Film Adı : Hauru no ugoku shiro
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : The Wolf of Wall Street
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2013)
+----------------------------------------
+
+Film Adı : Judgment at Nuremberg
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1961)
+----------------------------------------
+
+Film Adı : There Will Be Blood
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (2007)
+----------------------------------------
+
+Film Adı : Casino
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : The Great Escape
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1963)
+----------------------------------------
+
+Film Adı : The Treasure of the Sierra Madre
+Film IMDB Rating : 8.2
+Film Yayınlanma Tarihi : (1948)
+----------------------------------------
+
+Film Adı : Pan's Labyrinth
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2006)
+----------------------------------------
+
+Film Adı : A Beautiful Mind
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2001)
+----------------------------------------
+
+Film Adı : El secreto de sus ojos
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Raging Bull
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1980)
+----------------------------------------
+
+Film Adı : Chinatown
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1974)
+----------------------------------------
+
+Film Adı : Tonari no Totoro
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1988)
+----------------------------------------
+
+Film Adı : Shutter Island
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2010)
+----------------------------------------
+
+Film Adı : Lock, Stock and Two Smoking Barrels
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1998)
+----------------------------------------
+
+Film Adı : No Country for Old Men
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2007)
+----------------------------------------
+
+Film Adı : Klaus
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Dial M for Murder
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1954)
+----------------------------------------
+
+Film Adı : The Thing
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1982)
+----------------------------------------
+
+Film Adı : The Gold Rush
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1925)
+----------------------------------------
+
+Film Adı : Three Billboards Outside Ebbing, Missouri
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2017)
+----------------------------------------
+
+Film Adı : Det sjunde inseglet
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : The Elephant Man
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1980)
+----------------------------------------
+
+Film Adı : Dersu Uzala
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1975)
+----------------------------------------
+
+Film Adı : The Sixth Sense
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1999)
+----------------------------------------
+
+Film Adı : The Truman Show
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1998)
+----------------------------------------
+
+Film Adı : Jurassic Park
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1993)
+----------------------------------------
+
+Film Adı : Smultronstället
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : The Third Man
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1949)
+----------------------------------------
+
+Film Adı : Salinui chueok
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2003)
+----------------------------------------
+
+Film Adı : V for Vendetta
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2005)
+----------------------------------------
+
+Film Adı : Blade Runner
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1982)
+----------------------------------------
+
+Film Adı : Trainspotting
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1996)
+----------------------------------------
+
+Film Adı : Fargo
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1996)
+----------------------------------------
+
+Film Adı : The Bridge on the River Kwai
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : Inside Out
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2015)
+----------------------------------------
+
+Film Adı : Finding Nemo
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2003)
+----------------------------------------
+
+Film Adı : Kill Bill: Vol. 1
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2003)
+----------------------------------------
+
+Film Adı : Warrior
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2011)
+----------------------------------------
+
+Film Adı : Gone with the Wind
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1939)
+----------------------------------------
+
+Film Adı : Tôkyô monogatari
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1953)
+----------------------------------------
+
+Film Adı : On the Waterfront
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1954)
+----------------------------------------
+
+Film Adı : Babam ve Oglum
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2005)
+----------------------------------------
+
+Film Adı : Relatos salvajes
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2014)
+----------------------------------------
+
+Film Adı : Prisoners
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2013)
+----------------------------------------
+
+Film Adı : Stalker
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1979)
+----------------------------------------
+
+Film Adı : The Grand Budapest Hotel
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2014)
+----------------------------------------
+
+Film Adı : The Deer Hunter
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1978)
+----------------------------------------
+
+Film Adı : The General
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1926)
+----------------------------------------
+
+Film Adı : Persona
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1966)
+----------------------------------------
+
+Film Adı : Sherlock Jr.
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1924)
+----------------------------------------
+
+Film Adı : Gran Torino
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2008)
+----------------------------------------
+
+Film Adı : Before Sunrise
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : Mary and Max.
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Catch Me If You Can
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2002)
+----------------------------------------
+
+Film Adı : Mr. Smith Goes to Washington
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1939)
+----------------------------------------
+
+Film Adı : Barry Lyndon
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1975)
+----------------------------------------
+
+Film Adı : Dune: Part One
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2021)
+----------------------------------------
+
+Film Adı : In the Name of the Father
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1993)
+----------------------------------------
+
+Film Adı : Z
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1969)
+----------------------------------------
+
+Film Adı : Hacksaw Ridge
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2016)
+----------------------------------------
+
+Film Adı : Gone Girl
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2014)
+----------------------------------------
+
+Film Adı : Room
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2015)
+----------------------------------------
+
+Film Adı : La passion de Jeanne d'Arc
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1928)
+----------------------------------------
+
+Film Adı : Andhadhun
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2018)
+----------------------------------------
+
+Film Adı : Ford v Ferrari
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : 12 Years a Slave
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2013)
+----------------------------------------
+
+Film Adı : To Be or Not to Be
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1942)
+----------------------------------------
+
+Film Adı : The Big Lebowski
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1998)
+----------------------------------------
+
+Film Adı : Dead Poets Society
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1989)
+----------------------------------------
+
+Film Adı : Harry Potter and the Deathly Hallows: Part 2
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2011)
+----------------------------------------
+
+Film Adı : Ben-Hur
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1959)
+----------------------------------------
+
+Film Adı : How to Train Your Dragon
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2010)
+----------------------------------------
+
+Film Adı : Mad Max: Fury Road
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2015)
+----------------------------------------
+
+Film Adı : Höstsonaten
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1978)
+----------------------------------------
+
+Film Adı : Million Dollar Baby
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : Le salaire de la peur
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1953)
+----------------------------------------
+
+Film Adı : Stand by Me
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1986)
+----------------------------------------
+
+Film Adı : Network
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1976)
+----------------------------------------
+
+Film Adı : Ah-ga-ssi
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2016)
+----------------------------------------
+
+Film Adı : Logan
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2017)
+----------------------------------------
+
+Film Adı : La haine
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (1995)
+----------------------------------------
+
+Film Adı : Koe no katachi
+Film IMDB Rating : 8.1
+Film Yayınlanma Tarihi : (2016)
+----------------------------------------
+
+Film Adı : Cool Hand Luke
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1967)
+----------------------------------------
+
+Film Adı : Hachi: A Dog's Tale
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2009)
+----------------------------------------
+
+Film Adı : Gangs of Wasseypur
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2012)
+----------------------------------------
+
+Film Adı : Les quatre cents coups
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1959)
+----------------------------------------
+
+Film Adı : Platoon
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1986)
+----------------------------------------
+
+Film Adı : Spotlight
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2015)
+----------------------------------------
+
+Film Adı : Monsters, Inc.
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2001)
+----------------------------------------
+
+Film Adı : Rebecca
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1940)
+----------------------------------------
+
+Film Adı : Life of Brian
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1979)
+----------------------------------------
+
+Film Adı : Fa yeung nin wah
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : Hotel Rwanda
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : Eskiya
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1996)
+----------------------------------------
+
+Film Adı : Rush
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2013)
+----------------------------------------
+
+Film Adı : Rocky
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1976)
+----------------------------------------
+
+Film Adı : Amores perros
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
+
+Film Adı : Into the Wild
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2007)
+----------------------------------------
+
+Film Adı : Kaze no tani no Naushika
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1984)
+----------------------------------------
+
+Film Adı : Kimetsu no Yaiba: Mugen Ressha-Hen
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2020)
+----------------------------------------
+
+Film Adı : Before Sunset
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2004)
+----------------------------------------
+
+Film Adı : It Happened One Night
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1934)
+----------------------------------------
+
+Film Adı : Fanny och Alexander
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1982)
+----------------------------------------
+
+Film Adı : Drishyam
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2013)
+----------------------------------------
+
+Film Adı : La battaglia di Algeri
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1966)
+----------------------------------------
+
+Film Adı : Le notti di Cabiria
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1957)
+----------------------------------------
+
+Film Adı : Andrei Rublev
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (1966)
+----------------------------------------
+
+Film Adı : Miracle in Cell No. 7
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2019)
+----------------------------------------
+
+Film Adı : Hera Pheri
+Film IMDB Rating : 8.0
+Film Yayınlanma Tarihi : (2000)
+----------------------------------------
